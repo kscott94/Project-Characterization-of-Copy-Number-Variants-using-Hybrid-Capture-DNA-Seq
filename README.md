@@ -1,1 +1,3 @@
-# Project-Characterization-of-Copy-Number-Variants-using-Hybrid-Capture-DNA-Seq
+# Project: Characterization of Copy Number Variants using Hybrid Capture DNA-Seq
+
+This project focuses on developing and evaluating an NGS-based assay to detect deletions and duplications in the CNSL gene, the causative locus for the recessive disorder “Deldupemia.” Because the CNSL region contains highly homologous sequences, copy-number variation is common, and breakpoints vary across individuals and potentially across ethnicities. Using read-depth data from 100 hybrid-capture probes across 10,000 patient samples, the goal is to design an algorithm that identifies copy-number changes, quantifies deletion/duplication frequencies by ethnicity, and verifies known breakpoint locations. The analysis also includes assessing probe performance to flag poorly behaving probes and proposing a simple strategy for predicting ethnicity from copy-number patterns in unlabeled samples.
